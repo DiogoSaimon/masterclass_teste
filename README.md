@@ -1,17 +1,14 @@
-# todo1
+# masterclass_teste
+# todo
 
 A new Flutter project.
 
-## Getting Started
+## Teste de Unidades
 
-This project is a starting point for a Flutter application.
+Projeto criado acompanhando as aulas para entender os processos e conceitos do teste de unidade.
+App Todo criado na contendo, testes da regra de negócio, repositório e da tela.
 
-A few resources to get you started if this is your first Flutter project:
+E para consultas futuras, abaixo está o link de todo conteúdo programatico do curso:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Teste de Unidades - Módulos](https://github.com/jacobaraujo7/test)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# masterclass_teste
